@@ -1,3 +1,15 @@
+
+#navBar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: 1px solid white;
+    
+}
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Landing Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 .landing-body {
     margin: 0;
     height: 100vh;
@@ -64,6 +76,30 @@
     animation: rotation 3s;
     
 } */
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Landing Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Home Page Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+.home-body {
+    background-color: #BF94E4;
+}
+
+#home-header {
+    border: 1px solid black;
+    width: 20em;
+    color: whitesmoke;
+    font-size: 3em;
+}
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Home Page Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
 
 @keyframes rotation {
     from {
