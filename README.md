@@ -7,5 +7,17 @@
 ![screen-gif](./Assets/NBM-Landing-Demo.gif)
 
 ---
-#### More details coming soon...
+#### More updates coming soon...
 
+- [ ] Admin login
+- [ ] Admin privileges (Set appointment availability, accept/reject appointment request, change showcase content, etc..)
+- [ ] Homepage will be updated with content (Showcase of work on Carousel/Slideshow)
+- [ ] Add functionality so users can request an appointment
+- [ ] Process payments
+- [ ] Create calendar for admin that will display all confirmed appointments
+
+***This and more will be updated soon!***
+
+---
+
+Last update: 05/13/2023
